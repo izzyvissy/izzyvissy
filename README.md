@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @izzyvissy
 - 👀 I’m interested in software developing, hacking ethical, and hardware modding
-- 🌱 I’m currently learning German-Malaysian Institute
+- 🌱 I’m currently learning German-Malaysian Institute (graduated 🎓) 
+- current studying @ International Islamic University Malaysia 
 - 📫 How to reach me discord Ikan Terapung#2045
 
 <!---
